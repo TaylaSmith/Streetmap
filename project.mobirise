@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streetmap",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -41,12 +41,12 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html\">Services</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"services.html\">Services</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -62,7 +62,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_styles": {
@@ -250,7 +250,7 @@
         }
       ]
     },
-    "page1.html": {
+    "about.html": {
       "settings": {
         "title": "About",
         "meta_descr": "",
@@ -272,12 +272,12 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html\">Services</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"services.html\">Services</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -293,7 +293,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -540,7 +540,7 @@
         }
       ]
     },
-    "page2.html": {
+    "contact.html": {
       "settings": {
         "title": "Contact",
         "meta_descr": "",
@@ -562,12 +562,12 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html\">Services</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"services.html\">Services</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -583,7 +583,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -713,7 +713,7 @@
         }
       ]
     },
-    "page3.html": {
+    "services.html": {
       "settings": {
         "title": "Services",
         "meta_descr": "",
@@ -735,12 +735,12 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html\">Services</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".navbar-nav .btn\" href=\"services.html\">Services</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -756,7 +756,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streetmap</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
